@@ -12,7 +12,7 @@ void main() {
       body:Center(child : Text('Welcome to flutter!',style:TextStyle(fontSize:32),
       ),
       ),
-      backgroundColor:Colors.black,
+      backgroundColor:Colors.lightBlueAccent,
       floatingActionButton:FloatingActionButton(
         onPressed:(){},
           child:Icon(Icons.add),
